@@ -1,0 +1,10 @@
+?xml version="1.0" encoding="iso-8859-1" ?>
+<menu>
+  <item>
+    <path>civicrm/event/ICaland</path>
+    <title>Current and Upcoming Events</title>
+    <page_callback>CRM_Event_Form_ICalend</page_callback>
+    <access_arguments></access_arguments>
+    <component>CiviEvent</component>
+	</item>
+</menu>
